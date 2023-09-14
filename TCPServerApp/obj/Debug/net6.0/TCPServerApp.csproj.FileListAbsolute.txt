@@ -1,0 +1,15 @@
+E:\VSCode\C#\Kaga\TCPServerApp\bin\Debug\net6.0\TCPServerApp.exe
+E:\VSCode\C#\Kaga\TCPServerApp\bin\Debug\net6.0\TCPServerApp.deps.json
+E:\VSCode\C#\Kaga\TCPServerApp\bin\Debug\net6.0\TCPServerApp.runtimeconfig.json
+E:\VSCode\C#\Kaga\TCPServerApp\bin\Debug\net6.0\TCPServerApp.dll
+E:\VSCode\C#\Kaga\TCPServerApp\bin\Debug\net6.0\TCPServerApp.pdb
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.csproj.AssemblyReference.cache
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.AssemblyInfoInputs.cache
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.AssemblyInfo.cs
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.csproj.CoreCompileInputs.cache
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.dll
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\refint\TCPServerApp.dll
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.pdb
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\TCPServerApp.genruntimeconfig.cache
+E:\VSCode\C#\Kaga\TCPServerApp\obj\Debug\net6.0\ref\TCPServerApp.dll

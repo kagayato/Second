@@ -1,0 +1,15 @@
+E:\VSCode\C#\Kaga\TCPclientApp\bin\Debug\net6.0\TCPClientApp.exe
+E:\VSCode\C#\Kaga\TCPclientApp\bin\Debug\net6.0\TCPClientApp.deps.json
+E:\VSCode\C#\Kaga\TCPclientApp\bin\Debug\net6.0\TCPClientApp.runtimeconfig.json
+E:\VSCode\C#\Kaga\TCPclientApp\bin\Debug\net6.0\TCPClientApp.dll
+E:\VSCode\C#\Kaga\TCPclientApp\bin\Debug\net6.0\TCPClientApp.pdb
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.csproj.AssemblyReference.cache
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.AssemblyInfoInputs.cache
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.AssemblyInfo.cs
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.csproj.CoreCompileInputs.cache
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.dll
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\refint\TCPClientApp.dll
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.pdb
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\TCPClientApp.genruntimeconfig.cache
+E:\VSCode\C#\Kaga\TCPclientApp\obj\Debug\net6.0\ref\TCPClientApp.dll
